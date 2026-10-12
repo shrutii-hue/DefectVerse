@@ -336,8 +336,7 @@ with st.sidebar:
                     st.error(f"Training failed: {err}")
 
     st.markdown("---")
-    st.caption("College Final Year B.Tech Project\nComputer Science & Engineering")
-
+    st.caption("College 2nd Year B.Tech Project\nComputer Science & Engineering")
 
 # =============================================================================
 # 1. OVERVIEW DASHBOARD
